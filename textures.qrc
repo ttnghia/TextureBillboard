@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>textures/checkerboard.jpg</file>
-        <file>textures/billboardblueflowers.png</file>
-    </qresource>
-</RCC>
